@@ -14,5 +14,6 @@ For this course you will need python 3. It is advised to install jupyter with th
 - [https://jupyter.org/install](https://jupyter.org/install) - Jupyter notebook guide with installation instructions.
 - [https://www.scipy.org/](https://www.scipy.org/) - Scipy guide
 - [https://numpy.org/](https://numpy.org/) - numpy usually comes with scipy, incase it does not use this guide
+- [https://matplotlib.org/](https://matplotlib.org/) - Plotting library we will be using
 
 At the very least, you should be able to run the `Intro_to_Python.ipynb` notebook. If all the configuration is done you will be able to download and work on Assignment 1
