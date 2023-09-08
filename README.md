@@ -7,7 +7,7 @@ This is a small notebook that contains material that introduces concepts in pyth
 
 ## Setting up environment
 
-For this course you will need python 3. It is advised to install jupyter with the anaconda environment. Anaconda provides most of the tools that is needed for the course in one package. Alternatively you can install the packages separately using pip or any package manager. Additionally you would need matplotlib, numpy and scipy for the first part of the first assignment. Using conda most of numpy and scipy will be available by default. If it is not available use the following links.
+For this course you will need python 3. It is advised to install jupyter with the anaconda environment. Anaconda provides most of the tools that is needed for the course in one package. Alternatively you can install the packages separately using pip or any package manager. Additionally you would need matplotlib, numpy, pandas and scipy. Using conda most of numpy and scipy will be available by default. If it is not available use the following links.
 
 - [https://www.python.org/downloads/](https://www.python.org/downloads/) - If using conda, you can install python3 using conda. Otherwise `pip` is another option
 - [https://docs.conda.io/projects/conda/en/latest/index.html](https://docs.conda.io/projects/conda/en/latest/index.html) - Conda guide with instructions for installation.
